@@ -6,7 +6,6 @@ Created on Thu Jul 24 17:57:54 2025
 """
 
 import pandas as pd
-import seaborn as sns
 import streamlit as st 
 import matplotlib.pyplot as plt
 from sklearn.tree import DecisionTreeClassifier, plot_tree
